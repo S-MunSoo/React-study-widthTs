@@ -1,4 +1,5 @@
-// 오타 방지용. Typescript를 통해 Enum으로 만들어줘도 무관.
+// VALIDATOR코드 완벽 파해치기!!!!
+
 const VALIDATOR_TYPE_REQUIRE = "REQUIRE";
 const VALIDATOR_TYPE_MINLENGTH = "MINLENGTH";
 const VALIDATOR_TYPE_MAXLENGTH = "MAXLENGTH";
